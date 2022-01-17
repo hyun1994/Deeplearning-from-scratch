@@ -11,6 +11,6 @@
   * 오차역전파법 구현  
 
 * Chapter 6
-  * SGD, Momentum, AdaGrad, RMSProp, Adam rngus
+  * SGD, Momentum, AdaGrad, RMSProp, Adam 구현
   * 가중치 감소 구현
   * Dropout 구현
