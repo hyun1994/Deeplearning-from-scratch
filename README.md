@@ -9,3 +9,8 @@
   * 곱셈계층, 덧셈계층, ReLU함수 및 Sigmoid함수의 forward,backward 구현
   * Affine, SoftmaxWithLoss함수 구현
   * 오차역전파법 구현  
+
+* Chapter 6
+  * SGD, Momentum, AdaGrad 구현 및 Adam 이해
+  * 가중치 감소 구현
+  * 
