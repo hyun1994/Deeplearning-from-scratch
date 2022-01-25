@@ -27,4 +27,5 @@
 
 * chapter 4
   * Embedding, Embedding Dot 계층 구현
+  * Negative Sampling Loss 구현
   * CBOW, Skip-gram 구현 및 학습
