@@ -23,4 +23,8 @@
 
   * 말뭉치를 이용하기 위한 전처리 및 동시발생 행렬 구현
   * 코사인 유사도 및 양의 상호정보량 구현
-  * SVD에 의한 차원감소 구현 및 PTB 데이터 셋 평가 
+  * SVD에 의한 차원감소 구현 및 PTB 데이터 셋 평가
+
+* chapter 4
+  * Embedding, Embedding Dot 계층 구현
+  * CBOW, Skip-gram 구현 및 학습
