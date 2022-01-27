@@ -28,4 +28,11 @@
 * chapter 4
   * Embedding, Embedding Dot 계층 구현
   * Negative Sampling Loss 구현
-  * CBOW, Skip-gram 구현, 학습 및 
+  * CBOW, Skip-gram 구현 및 학습
+
+* chapter 6
+  * 기울기 폭발 방지의 전통적인 방법인 Clip grads 구현
+  * 기울기 소실 방지방법인 LSTM 구현
+  * TimeLSTM 구현
+  * Rnnlm 구현 및 평가
+  * Dropout를 추가한 BetterRnnlm 구현
